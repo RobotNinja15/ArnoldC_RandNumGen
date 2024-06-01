@@ -20,6 +20,13 @@ Or you can just straight up compile and run it again
 java -jar ArnoldC.jar test.arnoldc
 java test
 ```
+There is a fun thing you can try, you can create audible output, it's not really good. (If you are expecting some beautiful Arnold Schwarzenegger text-to-speech goodness, you will not find it here.)
+
+```bash
+java -jar ArnoldC.jar -declaim test.arnoldc
+```
+
+Do this and you will get a `.wav` file, with the audio output. I have already provided mine so you may not really need one.
 
 This has taught me about how programs are able to generate pseudo-random numbers, especially how `rand()` and `srand()` work in C/C++.
 

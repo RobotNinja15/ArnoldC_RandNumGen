@@ -1,5 +1,5 @@
 ## The Worst Random Number Generator made in ArnoldC
----
+
 ArnoldC is a programming language based on the one liners of **Arnold Schwarzenegger**.
 
 I randomly decided to make the worst pseudo-random number generator in arnoldC, I could've used some other language like C or C++, but nope I just wanted to punish myself lol.
